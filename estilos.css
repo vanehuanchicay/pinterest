@@ -1,0 +1,282 @@
+
+header{
+  position: fixed;
+  background-color: white;
+}
+body{
+  font-family: Source Sans Pro;
+  font-size: 25px;
+  margin: 0 auto;
+}
+
+ul li{
+list-style: none;
+}
+ul{
+  margin-bottom: 10px;
+}
+
+.fa-pinterest{
+  display: inline-block;
+  float: left;
+  font-size: 40px;
+  color: #c10000;
+}
+
+.fa-search{
+  display: inline-block;
+  float: left;
+  font-size: 20px;
+  margin-left: 15px;
+  margin-top: 9px;
+  color: #000;
+}
+
+.fa-times{
+  display: inline-block;
+  float: right;
+  font-size: 18px;
+  margin-right: 15px;
+  margin-top: 11px;
+  color: #000;
+}
+
+span{
+  display: inline-block;
+  float: right;
+  margin-right:5px;
+  font-size: 17px;
+  margin-top: 9px;
+  left: 40px;
+}
+.fa-chevron-down{
+  display: inline-block;
+  float: right;
+  font-size: 18px;
+  margin-right: 40px;
+  margin-top: 11px;
+  color: #000;
+}
+
+.cajainput{
+  display: inline-block;
+  position: relative;
+  width: 900px;
+  height: 40px;
+  padding-left: 30px;
+  background-color: #efefef;
+  border: none;
+  margin-left: 20px;
+  border-radius: 9px;
+}
+
+.entrada{
+  display: inline-block;
+  position: absolute;
+  top: 10px;
+  left: 90px;
+  width: 300px;
+  border: none;
+  background-color: #efefef;
+  cursor: text;
+}
+.iconos{
+  display: inline-block;
+  float: right;
+  margin-left: 30px;
+  margin-right: 100px;
+  margin-bottom: 0px;
+  margin-top: 3px;
+  color: #b4b4b4;
+
+}
+.iconos .fa-bars{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+hr{
+  height: .1px;
+  width: 1300px;
+  background-color:black;
+}
+
+.sub li{
+  display: inline-block;
+  float: left;
+  font-size: 20px;
+  margin: 0 7px;
+    margin-bottom: 15px;
+}
+
+.sub{
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+p{
+  text-align: center;
+  color: white;
+  margin-top: 14px;
+}
+
+.cuadro1{
+  background-image: url(blur1.jpg);
+  border-radius: 8px;
+  width: 130px;
+  height: 60px;
+}
+
+.cuadro2{
+  background-image: url(blur2.jpg);
+  border-radius: 8px;
+  width: 100px;
+  height: 60px;
+}
+
+.cuadro3{
+  background-image: url(blur3.jpg);
+  background-size: 200px 200px;
+  border-radius: 8px;
+  width: 85px;
+  height: 60px;
+}
+
+.cuadro4{
+  background-image: url(blur4.jpg);
+  background-size: 200px 200px;
+  border-radius: 8px;
+  width: 78px;
+  height: 60px;
+}
+
+.cuadro5{
+  background-image: url(blur5.jpg);
+  background-size: 200px 200px;
+  border-radius: 8px;
+  width: 145px;
+  height: 60px;
+}
+
+.cuadro6{
+  background-image: url(blur6.jpg);
+  background-size: 200px 200px;
+  border-radius: 8px;
+  width: 105px;
+  height: 60px;
+}
+
+.cuadro7{
+  background-image: url(blur7.jpg);
+  background-size: 200px 200px;
+  border-radius: 8px;
+  width: 90px;
+  height: 60px;
+}
+
+.cuadro8{
+  background-image: url(blur8.jpg);
+  background-size: 200px 200px;
+  border-radius: 8px;
+  width: 108px;
+  height: 60px;
+}
+
+.cuadro9{
+  background-image: url(blur9.jpg);
+  background-size: 200px 200px;
+  border-radius: 8px;
+  width: 98px;
+  height: 60px;
+}
+
+.foto1{
+  margin-top: 160px;
+  margin-left: 45px;
+  float: left;
+  border-radius: 20px;
+  width: 25%;
+}
+
+.foto2{
+  margin-top: 160px;
+  margin-left: 25px;
+  float: left;
+  border-radius: 20px;
+  width: 30%;
+}
+
+.foto3{
+  margin-top: 160px;
+  margin-left: 30px;
+  float: left;
+  border-radius: 20px;
+  width: 35%;
+}
+
+.foto4{
+  margin-left: 40px;
+  float: left;
+  border-radius: 20px;
+  width: 25%;
+  margin-top:-180px;
+}
+
+.foto5{
+  margin-left: 40px;
+  float: left;
+  border-radius: 20px;
+  width: 25%;
+  margin-top:-90px;
+
+}
+
+.foto6{
+  margin-left: 35px;
+  float: left;
+  border-radius: 20px;
+  width: 40%;
+  margin-top:20px;
+}
+
+.foto7{
+  margin-left: 35px;
+  float: left;
+  border-radius: 20px;
+  width: 26%;
+  margin-top:-520px;
+
+}
+
+.foto8{
+  margin-left: 35px;
+  float: left;
+  border-radius: 20px;
+  width: 25%;
+  margin-top:-370px;
+  margin-left: 400px;
+}
+
+.foto9{
+  margin-top: -15px;
+  float: left;
+  margin-left: -690px;
+  border-radius: 20px;
+  width: 25%;
+}
+
+.foto10{
+  margin-top: 110px;
+  float: left;
+  margin-left: -340px;
+  border-radius: 20px;
+  width: 28%;
+}
+
+.foto11{
+  margin-top: 35px;
+  margin-bottom: 15px;
+  float: left;
+  margin-left: 30px;
+  border-radius: 20px;
+  width: 38%;
+}
